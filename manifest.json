@@ -1,7 +1,7 @@
 ﻿{
     "min_app_version":  "1.0.0",
-    "sha256":  "501ca20ccee7016ef2f7250692c7e8e38fbc46a6362c48d031c502c38b950074",
-    "release_notes":  "v1.0.5: Fixed probe settle timing, BLE advertising optimization, DFU reboot fix.",
-    "firmware_url":  "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.0.5.bin",
-    "latest_version":  "1.0.5"
+    "sha256":  "c861b7b57b48b9c3ad6cf82241e26ea61436eb89341165e589692007a6b1793f",
+    "release_notes":  "v1.0.6: OTA version bump test.",
+    "firmware_url":  "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.0.6.bin",
+    "latest_version":  "1.0.6"
 }
