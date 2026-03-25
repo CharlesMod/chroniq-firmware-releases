@@ -1,7 +1,7 @@
 ﻿{
     "min_app_version":  "1.0.0",
-    "sha256":  "c861b7b57b48b9c3ad6cf82241e26ea61436eb89341165e589692007a6b1793f",
-    "release_notes":  "v1.0.6: OTA version bump test.",
-    "firmware_url":  "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.0.6.bin",
-    "latest_version":  "1.0.6"
+    "sha256":  "aceaa34b28a86100a1ba6c391c50c8cfda9b996983c44aa4fff6ab136e0ea30c",
+    "release_notes":  "v1.0.7: Ensure 3.3V GPIO at boot (REGOUT0 self-check).",
+    "firmware_url":  "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.0.7.bin",
+    "latest_version":  "1.0.7"
 }
