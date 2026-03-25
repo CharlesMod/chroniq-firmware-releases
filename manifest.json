@@ -1,7 +1,7 @@
 ﻿{
     "min_app_version":  "1.0.0",
-    "sha256":  "aceaa34b28a86100a1ba6c391c50c8cfda9b996983c44aa4fff6ab136e0ea30c",
-    "release_notes":  "v1.0.7: Ensure 3.3V GPIO at boot (REGOUT0 self-check).",
-    "firmware_url":  "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.0.7.bin",
-    "latest_version":  "1.0.7"
+    "sha256":  "17f5a64d49d9175ec3627b736dee088c6973599812912ba831942db95f7b9d4e",
+    "release_notes":  "v1.0.8: OTA DFU test release.",
+    "firmware_url":  "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.0.8.bin",
+    "latest_version":  "1.0.8"
 }
