@@ -1,7 +1,7 @@
 ﻿{
     "min_app_version":  "1.0.0",
-    "sha256":  "a1f404c507c40db1a41c82fbd4703edfa4703bbde0e21a0bbc90d80a52f2635b",
-    "release_notes":  "v1.0.5: Fixed probe settle timing for reliable skin detection, optimized BLE advertising interval.",
+    "sha256":  "501ca20ccee7016ef2f7250692c7e8e38fbc46a6362c48d031c502c38b950074",
+    "release_notes":  "v1.0.5: Fixed probe settle timing, BLE advertising optimization, DFU reboot fix.",
     "firmware_url":  "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.0.5.bin",
     "latest_version":  "1.0.5"
 }
