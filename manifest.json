@@ -1,7 +1,7 @@
 {
     "min_app_version":  "1.0.0",
-    "sha256":  "6600e7d040169a8372cde4a98550a29cef28acfda7d79ffd7a40233d14141d02",
-    "release_notes":  "HR smoothing (IBI median + EMA + slew limiter), SpO2 validation (PI gate + R range + median), streaming RMS SpO2",
-    "firmware_url":  "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.0.15.bin",
-    "latest_version":  "1.0.15"
+    "sha256":  "43ace6e83cfeaa1cd29642411b87abaad116342933b022c4c082f3e3f952eb4a",
+    "release_notes":  "Android companion app: signal strength bars, green nearby banner, last-seen fix when connected, deploy-app function, rename debug.ps1 to chroniq.ps1",
+    "firmware_url":  "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.0.16.bin",
+    "latest_version":  "1.0.16"
 }
