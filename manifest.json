@@ -1,7 +1,7 @@
 {
     "min_app_version":  "1.0.0",
-    "sha256":  "f470fa0b7608a9c8cce374468558e4f2a304d0ce81afb1e69f82eb5de3246229",
-    "release_notes":  "Increase SpO2 reporting speed to 0.25 Hz (every 4s) while connected",
-    "firmware_url":  "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.0.11.bin",
-    "latest_version":  "1.0.11"
+    "sha256":  "64022dd021749abba653149023fd9a2066e377f42a72f2f8f9ae3d2434fcc5a9",
+    "release_notes":  "Background health sync, iOS HealthKit entitlement, DFU reconnect safety",
+    "firmware_url":  "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.0.13.bin",
+    "latest_version":  "1.0.13"
 }
