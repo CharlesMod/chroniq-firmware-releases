@@ -1,7 +1,7 @@
-﻿{
+{
     "min_app_version":  "1.0.0",
-    "sha256":  "f1586b6e5c6a842b37b4a6687a0d45c092899e91e6ec063e0554c3b7b948063f",
-    "release_notes":  "v1.0.10: OTA DFU test — single-source VERSION file.",
-    "firmware_url":  "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.0.10.bin",
-    "latest_version":  "1.0.10"
+    "sha256":  "f470fa0b7608a9c8cce374468558e4f2a304d0ce81afb1e69f82eb5de3246229",
+    "release_notes":  "Increase SpO2 reporting speed to 0.25 Hz (every 4s) while connected",
+    "firmware_url":  "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.0.11.bin",
+    "latest_version":  "1.0.11"
 }
