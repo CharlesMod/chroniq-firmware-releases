@@ -1,7 +1,7 @@
 {
     "min_app_version":  "1.0.0",
-    "sha256":  "0e8a0d687c52b996ec9a8c0db300197d99724b110144cbb57646e818493e76e6",
-    "release_notes":  "3-tier step dedup: persist baselines, GATT 15-min step history, protocol v5 with uptime",
-    "firmware_url":  "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.0.14.bin",
-    "latest_version":  "1.0.14"
+    "sha256":  "6600e7d040169a8372cde4a98550a29cef28acfda7d79ffd7a40233d14141d02",
+    "release_notes":  "HR smoothing (IBI median + EMA + slew limiter), SpO2 validation (PI gate + R range + median), streaming RMS SpO2",
+    "firmware_url":  "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.0.15.bin",
+    "latest_version":  "1.0.15"
 }
