@@ -1,7 +1,7 @@
 {
     "min_app_version":  "1.0.0",
-    "sha256":  "64022dd021749abba653149023fd9a2066e377f42a72f2f8f9ae3d2434fcc5a9",
-    "release_notes":  "Background health sync, iOS HealthKit entitlement, DFU reconnect safety",
-    "firmware_url":  "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.0.13.bin",
-    "latest_version":  "1.0.13"
+    "sha256":  "0e8a0d687c52b996ec9a8c0db300197d99724b110144cbb57646e818493e76e6",
+    "release_notes":  "3-tier step dedup: persist baselines, GATT 15-min step history, protocol v5 with uptime",
+    "firmware_url":  "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.0.14.bin",
+    "latest_version":  "1.0.14"
 }
