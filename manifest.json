@@ -1,7 +1,7 @@
 ﻿{
     "min_app_version":  "1.0.0",
-    "sha256":  "ddd4bacae7d46664e82d2c3a2ffbfbd1b5f88fdb92a175d2c81ff031abccff83",
-    "release_notes":  "v1.0.9: OTA DFU test release.",
-    "firmware_url":  "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.0.9.bin",
-    "latest_version":  "1.0.9"
+    "sha256":  "f1586b6e5c6a842b37b4a6687a0d45c092899e91e6ec063e0554c3b7b948063f",
+    "release_notes":  "v1.0.10: OTA DFU test — single-source VERSION file.",
+    "firmware_url":  "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.0.10.bin",
+    "latest_version":  "1.0.10"
 }
