@@ -1,7 +1,7 @@
 {
-    "min_app_version":  "1.0.0",
-    "sha256":  "43ace6e83cfeaa1cd29642411b87abaad116342933b022c4c082f3e3f952eb4a",
-    "release_notes":  "Android companion app: signal strength bars, green nearby banner, last-seen fix when connected, deploy-app function, rename debug.ps1 to chroniq.ps1",
-    "firmware_url":  "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.0.16.bin",
-    "latest_version":  "1.0.16"
+  "latest_version": "1.0.17",
+  "firmware_url": "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.0.17.bin",
+  "sha256": "dceb2f47cccff19ac6d2387f30a45cea4febed4174e1e62ffb8d2afdbf22faf7",
+  "release_notes": "v1.0.17 release: battery efficiency pass + app sync updates",
+  "min_app_version": "1.0.0"
 }
