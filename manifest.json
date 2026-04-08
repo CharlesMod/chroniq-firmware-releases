@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.17",
-  "firmware_url": "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.0.17.bin",
-  "sha256": "dceb2f47cccff19ac6d2387f30a45cea4febed4174e1e62ffb8d2afdbf22faf7",
-  "release_notes": "v1.0.17 release: battery efficiency pass + app sync updates",
+  "latest_version": "1.0.19",
+  "firmware_url": "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.0.19.bin",
+  "sha256": "844c1ad20a8dbd5f9288280e8385b0463dac4ca60e5863b7ba724b50ca1fb7d6",
+  "release_notes": "iOS DFU regression test - app-side BLE scan + DFU fixes",
   "min_app_version": "1.0.0"
 }
