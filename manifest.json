@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.1.2",
-  "firmware_url": "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.1.2.bin",
-  "sha256": "474f0dce0ffaf4441deef35e87621da496978d35f4045d76545ed1033860b445",
-  "release_notes": "v1.1.2: OTA DFU test for iOS regression check",
+  "latest_version": "1.1.3",
+  "firmware_url": "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.1.3.bin",
+  "sha256": "1a2bace5e43174207eb5b96ace0b8c22d017621c81b7722cd362ab7f36362600",
+  "release_notes": "v1.1.3: Fix multi-device DFU targeting — persist device identity across reconnects",
   "min_app_version": "1.0.0"
 }
