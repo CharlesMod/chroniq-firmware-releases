@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.1.0",
-  "firmware_url": "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.1.0.bin",
-  "sha256": "abb63652a295a2be4ff896eeca13b73590d8fb629f81017e11edfe649957c231",
-  "release_notes": "v1.1.0: MVP release - OTA DFU fix, BLE advertising, debug cleanup",
+  "latest_version": "1.1.1",
+  "firmware_url": "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.1.1.bin",
+  "sha256": "1ede9154088df336d3f0e66d3b2d6d5f7c22481c0a1b9fba189fa676e30a8e94",
+  "release_notes": "v1.1.1: BLE TX power +4dBm, BLE disconnect on app close",
   "min_app_version": "1.0.0"
 }
