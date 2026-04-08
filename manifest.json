@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.19",
-  "firmware_url": "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.0.19.bin",
-  "sha256": "844c1ad20a8dbd5f9288280e8385b0463dac4ca60e5863b7ba724b50ca1fb7d6",
-  "release_notes": "iOS DFU regression test - app-side BLE scan + DFU fixes",
+  "latest_version": "1.0.20",
+  "firmware_url": "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.0.20.bin",
+  "sha256": "3752c401b985fa6d08198dea6f4d95ffb08e51fe3668511c1901897e72d4befb",
+  "release_notes": "v1.0.20: fix CHRONIQ_DEBUG boot loop crash",
   "min_app_version": "1.0.0"
 }
