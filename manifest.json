@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.21",
-  "firmware_url": "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.0.21.bin",
-  "sha256": "d2ad80445a087ff069181e2e6d13403bafa44332a9273dc50d67daa5283a0919",
-  "release_notes": "v1.0.21: fix OTA DFU double-header crash",
+  "latest_version": "1.1.0",
+  "firmware_url": "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.1.0.bin",
+  "sha256": "abb63652a295a2be4ff896eeca13b73590d8fb629f81017e11edfe649957c231",
+  "release_notes": "v1.1.0: MVP release - OTA DFU fix, BLE advertising, debug cleanup",
   "min_app_version": "1.0.0"
 }
