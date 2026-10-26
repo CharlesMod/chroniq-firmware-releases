@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.1.5",
-  "firmware_url": "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.1.5.bin",
-  "sha256": "b85633b4b133f593e4a007424bc501be53c3be14869c7ed6a458289749293b68",
-  "release_notes": "v1.1.5: Skin temperature (TMP119) each measurement, over the standard Health Thermometer service. Includes 1.1.4: no more Bluetooth toggling.",
+  "latest_version": "1.1.6",
+  "firmware_url": "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.1.6.bin",
+  "sha256": "575021eecfe0549e352fc028e90cbcef06ad594e369f038f261718805742d840",
+  "release_notes": "v1.1.6: Battery % from a LiPo curve with voltage reporting (needs the matching app), faster firmware updates, better beat detection on short readings.",
   "min_app_version": "1.0.0"
 }
