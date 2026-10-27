@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.1.8",
-  "firmware_url": "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.1.8.bin",
-  "sha256": "9f3a23ccfbe33424f8f110722892257f58edb173a391ed0b3c64a2faf0433b35",
-  "release_notes": "v1.1.8: Reworked beat detector for short readings, plus a diagnostic data stream for SpO2/HR validation.",
+  "latest_version": "1.1.9",
+  "firmware_url": "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.1.9.bin",
+  "sha256": "3560dbc267d59f98a7f505c81c483ec49c99660b2f67822832a67b1448202b62",
+  "release_notes": "v1.1.9: Motion-aware heart rate (holds the last resting value while your hand moves instead of locking onto the motion) and motion-gated SpO2 for the wrist. SpO2 is calibrated to a single resting reading (98% on a finger oximeter, one wearer); values well away from that are not yet calibrated.",
   "min_app_version": "1.0.0"
 }
