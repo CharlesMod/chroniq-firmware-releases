@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.1.9",
-  "firmware_url": "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.1.9.bin",
-  "sha256": "3560dbc267d59f98a7f505c81c483ec49c99660b2f67822832a67b1448202b62",
-  "release_notes": "v1.1.9: Motion-aware heart rate (holds the last resting value while your hand moves instead of locking onto the motion) and motion-gated SpO2 for the wrist. SpO2 is calibrated to a single resting reading (98% on a finger oximeter, one wearer); values well away from that are not yet calibrated.",
+  "latest_version": "1.1.10",
+  "firmware_url": "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.1.10.bin",
+  "sha256": "c6e1f48384512685d46518b91b688e4ed9e4ffcf435bd62f27b28d3c2536a089",
+  "release_notes": "v1.1.10: Heart rate keeps following you while your hand moves (the learned tracker takes over at once instead of holding an old value) and updates faster at rest. SpO2 is only shown when it can be trusted: your skin is warm, you are still, and the pulse looks normal; it is the median of the last 30 s, and otherwise the app shows -- instead of an old or wrong number (update the app to see --). SpO2 calibration is still a single resting reading, so values well away from ~98% are not yet calibrated.",
   "min_app_version": "1.0.0"
 }
