@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.1.6",
-  "firmware_url": "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.1.6.bin",
-  "sha256": "575021eecfe0549e352fc028e90cbcef06ad594e369f038f261718805742d840",
-  "release_notes": "v1.1.6: Battery % from a LiPo curve with voltage reporting (needs the matching app), faster firmware updates, better beat detection on short readings.",
+  "latest_version": "1.1.8",
+  "firmware_url": "https://charlesmod.github.io/chroniq-firmware-releases/firmware/firmware_ota_v1.1.8.bin",
+  "sha256": "9f3a23ccfbe33424f8f110722892257f58edb173a391ed0b3c64a2faf0433b35",
+  "release_notes": "v1.1.8: Reworked beat detector for short readings, plus a diagnostic data stream for SpO2/HR validation.",
   "min_app_version": "1.0.0"
 }
